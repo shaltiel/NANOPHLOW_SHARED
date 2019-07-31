@@ -1,4 +1,10 @@
-### Latest Changes 24/7/19
+#### Latest Changes - Waiting for approval  31/7/2019
+At the moment the files shared are only for complement the NANOPHLOW report and showing the structure of the tool. 
+Soon and under the approval of S. Ramirez we will put all the files necessary to be used by the public.
+
+
+
+### 24/7/19
 
 Hi, 
 I added the geometry configuration class which should generate the geometry according to your instruction. I didnt want to try to compile the fortran cod. but the infrastracture of replacing and puting parameters are in the class geometry. There is the first subclass BenchmarkGeometry which does that, I guess the end goal is that the geometry class can have many ways to create geometries but all what matters is that it will have a template target, so the study object can get it.
